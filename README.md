@@ -8,7 +8,7 @@ Hereby thank `ptpt52` for his amazing job: https://github.com/x-wrt<br>
 
 **Tutorial**<br>
 
-Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
+#Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
 
 **Prerequisite**
  - **`Ubuntu`** or **`Debian`** (CentOS/Arch Based Not tested)
@@ -22,12 +22,12 @@ Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
 1.  Upload OpenWrt firmware(WinSCP or prefer), rename it to `op.img.gz` 
 2.  Run command line below:
     ```Bash
-    bash -c "$(wget -O- https://git.io/JZOn0)"
+    bash -c "$(wget -O- https://goo.gs/rnfy3)"
     ```
     If you have problem with https certificate, then try this:
 
     ```Bash
-    wget --no-check-certificate -O- https://git.io/JZOn0|bash
+    wget --no-check-certificate -O- https://goo.gs/rnfy3|bash
     ```
 **Support Platform :**
 - Google Cloud
